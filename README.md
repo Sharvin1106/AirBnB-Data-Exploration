@@ -22,3 +22,6 @@
 <img src="https://raw.githubusercontent.com/Sharvin1106/AirBnB-Data-Exploration/main/imageAir/Charac%203.png" />
 <img src="https://raw.githubusercontent.com/Sharvin1106/AirBnB-Data-Exploration/main/imageAir/charac%204.png" />
 
+### Properties with more than 50 reviews
+
+<img src="https://github.com/Sharvin1106/AirBnB-Data-Exploration/blob/main/imageAir/reviews.png" />
