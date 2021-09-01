@@ -17,8 +17,8 @@
 
 ### The markatable population charateristics 
 
-<img src="https://github.com/Sharvin1106/AirBnB-Data-Exploration/blob/main/imageAir/charac%201.png" />
-<img src="https://github.com/Sharvin1106/AirBnB-Data-Exploration/blob/main/imageAir/charac%202.png" />
-<img src="https://github.com/Sharvin1106/AirBnB-Data-Exploration/blob/main/imageAir/Charac%203.png" />
-<img src="https://github.com/Sharvin1106/AirBnB-Data-Exploration/blob/main/imageAir/charac%204.png" />
+<img src="https://raw.githubusercontent.com/Sharvin1106/AirBnB-Data-Exploration/main/imageAir/charac%201.png" />
+<img src="https://raw.githubusercontent.com/Sharvin1106/AirBnB-Data-Exploration/main/imageAir/charac%202.png" />
+<img src="https://raw.githubusercontent.com/Sharvin1106/AirBnB-Data-Exploration/main/imageAir/Charac%203.png" />
+<img src="https://raw.githubusercontent.com/Sharvin1106/AirBnB-Data-Exploration/main/imageAir/charac%204.png" />
 
