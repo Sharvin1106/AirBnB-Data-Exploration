@@ -10,8 +10,8 @@
 
 ### The listed properties
 
-<img src="https://github.com/Sharvin1106/AirBnB-Data-Exploration/blob/main/imageAir/list%20property%201.png"/>
-<img src="https://github.com/Sharvin1106/AirBnB-Data-Exploration/blob/main/imageAir/list%20property%202.png"/>
+<img src="https://raw.githubusercontent.com/Sharvin1106/AirBnB-Data-Exploration/main/imageAir/list%20property%201.png"/>
+<img src="https://raw.githubusercontent.com/Sharvin1106/AirBnB-Data-Exploration/main/imageAir/list%20property%202.png"/>
 
 <i> Please click on the image to view it in full size </i>
 
